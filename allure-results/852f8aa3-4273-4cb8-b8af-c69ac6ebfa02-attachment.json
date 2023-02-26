@@ -1,0 +1,4 @@
+{
+  "script": "return (function () {\n\t\t\t\treturn document.readyState == \"complete\";\n\t\t\t}).apply(null, arguments)",
+  "args": []
+}
